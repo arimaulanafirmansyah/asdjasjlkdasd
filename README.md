@@ -12,9 +12,6 @@
 > Recode dari [Chika Bot](https://github.com/rashidsiregar28/chika-bot)
 
 
-# Heroku
->[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hazaku-rei/rei-wabot)
-
 # Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xinz-Team`](https://github.com/Xinz-Team)
