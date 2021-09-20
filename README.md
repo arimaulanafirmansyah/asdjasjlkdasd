@@ -3,12 +3,6 @@
 
 
 # Rushia Bot
-## Version
-<details>
-<summary>Last Update</summary>
-> 09 - 20 - 2021 ||  V 1.0
-</details>
-
 > Recode dari [Chika Bot](https://github.com/rashidsiregar28/chika-bot)
 
 
