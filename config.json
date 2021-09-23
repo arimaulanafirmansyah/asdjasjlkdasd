@@ -1,16 +1,16 @@
 {
-  "ownerNumber": [ "6289669497213@s.whatsapp.net","6285156897673@s.whatsapp.net" ],
+  "ownerNumber": [ "6285157792618@s.whatsapp.net" ],
   "limitCount": 50,
   "gamewaktu": 60,
-  "botName": "RushiaBot",
-  "pathImg": "./media/rushiah.jpg",
+  "botName": "TESTBOT",
+  "pathImg": "./media/amf.jpg",
   "zekskey": "acetI2BSxtQ9ZWrPMJXbRH3XxB1",
   "aqulzkey": "TDG47MHpmJzhiQXS",
-  "sessionName": "rushia",
+  "sessionName": "testbot",
   "gcount": {
     "prem": 999999,
     "user": 50
   },
-  "packSticker": "By RushiaBot",
-  "authorSticker": "@reiyuura"
+  "packSticker": "By AMFCODE",
+  "authorSticker": "@amfcode_"
 }

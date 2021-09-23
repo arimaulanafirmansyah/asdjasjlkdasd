@@ -35,7 +35,7 @@ Daftar hadis:
 
 exports.groupBot = (sender) => {
     return `
-Link Group Rushia Bot : https://chat.whatsapp.com/B88FbnUm0OsEwdE2xyPC7v
+Link Group AMF Bot : 
 
 
 Jangan lupa join ya kak @${sender.split('@')[0]}`
@@ -175,13 +175,13 @@ exports.menu = (prefix, ucap, pushname2, jumlahUser, timebot, owner, jumlahHaria
 
 ╭── 「 *BOT INFO* 」 ──
 │
-│❒͡  _*Rushia Bot*_ 
+│❒͡  _*TEST Bot*_ 
 │❒͡ *Contact My Owner*
 │ *https://wa.me/${owner}*
 │❒͡ *Time: ${time}*
 │❒͡ *STATUS* :「 ${public} 」
 │
-╰── 「 *Rushia Bot* 」 ──
+╰── 「 *TEST Bot* 」 ──
 
 ❉──────────────────❉  
 *Name* : *${pushname2}* 
@@ -206,7 +206,7 @@ exports.menu = (prefix, ucap, pushname2, jumlahUser, timebot, owner, jumlahHaria
 
  𒍮 *Total Hit Today : ${jumlahHarian}*
 
-*── 「 Rushia Bot 」 ──*
+*── 「 TEST Bot 」 ──*
 
 
 *Official BOT By @0*`
@@ -471,7 +471,7 @@ exports.menuPrice = (owner, pushname) => {
 *15K/Group Selama 1 Bulan*
 
 *Pembayaran Bisa Melalui Metode Pembayaran di Bawah:*
-*OVO/Dana/Gopay = ${owner}*
+*OVO/Dana/Gopay = ${6285157792618}*
 *QRis yang dilampirkan*
 
 *_note_*:
@@ -491,8 +491,7 @@ exports.UpToPremi = (ownerNumber, prefix) => {
 ♲ *Dapat Informasi Lebih dulu akan Update, Nomor Bot Baru (Jika Terbanned), dan Lainnya*
 
 *Jika Tertarik,Kalian Bisa Bayar Melalui Metode Pembayaran di Bawah:*
-*DANA = 085156897673*
-*Qris pada gambar diatas*
+*DANA = 085157792618*
 
 *Info Lebih Lengkap Chat Owner, Ketik ${prefix}owner
 *_note_*:
@@ -524,13 +523,13 @@ exports.tos = (ownerNumber, prefix) => {
 *── 「 DONATE 」 ──*
 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-085156897673 (DANA)
+085157792618 (DANA)
 
 
 Terima kasih!
 
 Contact person Owner:
-wa.me/${ownerNumber} (Owner)
+wa.me/6285157792618 (Owner)
 
 Untuk melihat script yang bot gunakan,ketik ${prefix}sc
     `
